@@ -54,7 +54,7 @@
   </a>
 </p>
 - **내용**: C++ 기반 알고리즘 문제 풀이 및 정리   
-- **링크**: [Repo]([https://github.com/PsyproLEE/boj-solutions](https://github.com/PsyproLEE/Algorithm_cpp/tree/main))   
+- **링크**: [Algorithm_cpp Repository](https://github.com/PsyproLEE/Algorithm_cpp) 
 
 ---
 
