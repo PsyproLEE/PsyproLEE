@@ -69,5 +69,5 @@
 ---
 
 ## ☕ Contact
-- 📧 Email: jigun77@gmail.com   
+- 📧 Email: dlwl1905@naver.com
 
