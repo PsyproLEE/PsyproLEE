@@ -35,7 +35,7 @@
 - **내용**: 리조트 F&B 매출 데이터를 기반으로 시계열 예측  
 - **핵심**: LSTM, XGBoost, LightGBM, SARIMAX 등 다양한 모델 적용 + Weighted Ensemble  
 - **성과**: 예선 통과, 수료증 취득  
-- **링크**: [Repo](https://github.com/PsyproLEE/LG_Aimer_2025)
+- **링크**: [LG_Aimer_2025](https://github.com/PsyproLEE/LG_Aimer_2025)
 
 ---
 
