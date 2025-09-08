@@ -47,14 +47,16 @@
 
 ---
 
-### 3) 💡 Algorithm Practice (Baekjoon)
+### 3) 💡 Algorithm Practice (C++)
 <p align="center">
   <a href="https://solved.ac/dlwlgns720/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlgns720" alt="Solved.ac Profile"/>
   </a>
 </p>
-- **내용**: C++ 기반 알고리즘 문제 풀이 및 정리   
-- **링크**: [Algorithm_cpp Repository](https://github.com/PsyproLEE/Algorithm_cpp) 
+
+- **내용**: C++ 기반 알고리즘 문제 풀이 및 정리  
+- **링크**: [Algorithm_cpp Repository](https://github.com/PsyproLEE/Algorithm_cpp)
+
 
 ---
 
