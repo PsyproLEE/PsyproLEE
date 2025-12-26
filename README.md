@@ -40,9 +40,9 @@
 ---
 
 ### 2) 🔊 발음 기반 번역 시스템 (KR → JPN)
-- **내용**: 한국어 음성 입력을 일본어로 번역하는 실험 프로젝트  
-- **핵심**: 음성 → 발음 기반 텍스트 변환 → 번역 모델 적용  
-- **스택**: Seq2Seq with attetion 
+- **내용**: 한국어 발음 기반 입력을 의미 단위 번역으로 변환하는 Seq2Seq 모델 실험
+- **핵심**: 발음 노이즈에 강건한 번역을 목표로 한 데이터 증강 및 end-to-end 학습
+- **스택**: Seq2Seq with attetion(PyTorch)
 - **링크**: [Phonetic-translation-seq2seq](https://github.com/PsyproLEE/Phonetic-translation-seq2seq) 
 
 ---
