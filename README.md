@@ -42,8 +42,8 @@
 ### 2) 🔊 발음 기반 번역 시스템 (KR → JPN)
 - **내용**: 한국어 음성 입력을 일본어로 번역하는 실험 프로젝트  
 - **핵심**: 음성 → 발음 기반 텍스트 변환 → 번역 모델 적용  
-- **스택**: Python, PyTorch, OpenAI Whisper / Transformers  
-- **링크**: [Repo](https://github.com/PsyproLEE/Phonetic-translation-seq2seq) 
+- **스택**: Seq2Seq with attetion 
+- **링크**: [Phonetic-translation-seq2seq](https://github.com/PsyproLEE/Phonetic-translation-seq2seq) 
 
 ---
 
