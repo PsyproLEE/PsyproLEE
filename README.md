@@ -43,7 +43,7 @@
 - **내용**: 한국어 음성 입력을 일본어로 번역하는 실험 프로젝트  
 - **핵심**: 음성 → 발음 기반 텍스트 변환 → 번역 모델 적용  
 - **스택**: Python, PyTorch, OpenAI Whisper / Transformers  
-- **링크**: [Repo](https://github.com/PsyproLEE/kr-jpn-phonetic-translation) *(예정)*  
+- **링크**: [Repo](https://github.com/PsyproLEE/Phonetic-translation-seq2seq) 
 
 ---
 
