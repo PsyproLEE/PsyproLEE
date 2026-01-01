@@ -121,10 +121,9 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PsyproLEE&show_icons=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsyproLEE&layout=compact" height="150"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsyproLEE&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsyproLEE&layout=compact)
+
 
 ---
 
