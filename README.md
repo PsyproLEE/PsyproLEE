@@ -119,14 +119,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsyproLEE&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsyproLEE&layout=compact)
-
-
----
-
 ## ☕ Contact
 
 - 📧 Email: dlwl1905@naver.com
